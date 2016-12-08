@@ -13,7 +13,7 @@
              lex:ResxLocalizationProvider.DefaultAssembly="Naviman.Localization.Desktop"
              lex:ResxLocalizationProvider.DefaultDictionary="Administration">
     <Grid>
-        <telerik:RadBusyIndicator  
+        <telerik:RadBusyIndicator   выавыа
                                   DisplayAfter="0"
                                   IsBusy="{Binding IsBusy}"
                                   BusyContent=" ">
