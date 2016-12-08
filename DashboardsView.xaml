@@ -14,7 +14,7 @@
              lex:ResxLocalizationProvider.DefaultDictionary="Administration">
     <Grid>
         <telerik:RadBusyIndicator   выавыа
-                                  DisplayAfter="0"
+                                  DisplayAfter="0"фывафвыавы
                                   IsBusy="{Binding IsBusy}"
                                   BusyContent=" ">
             <telerik:RadGridView ItemsSource="{Binding Dashboards, Mode=TwoWay}"
